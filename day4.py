@@ -5,5 +5,3 @@ random_float=random.random()
 print(random_float)
 experiment=random_integer*random_float
 print(experiment)
-
-Just learnt 'random' 
