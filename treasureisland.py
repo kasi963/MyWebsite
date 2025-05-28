@@ -16,3 +16,4 @@ elif direction=="left":
             print("You just got attacked by a bear!\n you lose!")
         else:
             print("You won! headover to the link below for your prize")
+just learnt conditional statments
